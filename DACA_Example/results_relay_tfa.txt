@@ -1,0 +1,9 @@
+JDBC connection obtained in 643580463 us
+BusinessManager was configured in 5736112569 us
+100_performTwoDirectSelectsDiffPS finished in 491097734 us
+JDBC connection obtained in 14528015 us
+BusinessManager was configured in 3516157313 us
+100_performTwoDirectSelectsDiffPS finished in 198778218 us
+JDBC connection obtained in 17141548 us
+BusinessManager was configured in 3606977569 us
+100_performTwoDirectSelectsDiffPS finished in 170061998 us

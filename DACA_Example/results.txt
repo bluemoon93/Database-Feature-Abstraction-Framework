@@ -1,0 +1,495 @@
+JDBC connection obtained in 532564846 us
+BusinessManager was configured in 5052716052 us
+1_performDirectSelectsSamePS finished in 82919503 us
+JDBC connection obtained in 18634538 us
+BusinessManager was configured in 3140216275 us
+1_performDirectSelectsSamePS finished in 8191287 us
+JDBC connection obtained in 11640587 us
+BusinessManager was configured in 3036157493 us
+1_performDirectSelectsSamePS finished in 6453838 us
+JDBC connection obtained in 9809706 us
+BusinessManager was configured in 3487076325 us
+1_performDirectSelectsDiffPS finished in 6732854 us
+JDBC connection obtained in 10560361 us
+BusinessManager was configured in 2565225043 us
+1_performDirectSelectsDiffPS finished in 3796789 us
+JDBC connection obtained in 10863694 us
+BusinessManager was configured in 2909726258 us
+1_performDirectSelectsDiffPS finished in 4871256 us
+JDBC connection obtained in 13964224 us
+BusinessManager was configured in 2733287855 us
+BusinessManager instantiated in 26877 us
+Session instantiated in 39967081 us
+1_performBSSelects finished in 33567638 us
+JDBC connection obtained in 16673749 us
+BusinessManager was configured in 2414350495 us
+BusinessManager instantiated in 1280 us
+Session instantiated in 11421726 us
+1_performBSSelects finished in 6674619 us
+JDBC connection obtained in 9785388 us
+BusinessManager was configured in 2337306321 us
+BusinessManager instantiated in 1920 us
+Session instantiated in 12583224 us
+1_performBSSelects finished in 10233989 us
+JDBC connection obtained in 13579618 us
+BusinessManager was configured in 3405752204 us
+1_performTwoDirectSelectsSamePS finished in 2585375 us
+JDBC connection obtained in 8580373 us
+BusinessManager was configured in 2635808339 us
+1_performTwoDirectSelectsSamePS finished in 2730002 us
+JDBC connection obtained in 8122813 us
+BusinessManager was configured in 2915192022 us
+1_performTwoDirectSelectsSamePS finished in 2634650 us
+JDBC connection obtained in 12548028 us
+BusinessManager was configured in 2436020929 us
+1_performTwoDirectSelectsDiffPS finished in 2686486 us
+JDBC connection obtained in 10415734 us
+BusinessManager was configured in 4028494160 us
+1_performTwoDirectSelectsDiffPS finished in 2536099 us
+JDBC connection obtained in 9621562 us
+BusinessManager was configured in 2216564830 us
+1_performTwoDirectSelectsDiffPS finished in 2687126 us
+JDBC connection obtained in 9072490 us
+BusinessManager was configured in 2457779675 us
+BusinessManager instantiated in 1919 us
+Session instantiated in 8914424 us
+1_performTwoBSSelects finished in 13117578 us
+JDBC connection obtained in 26292752 us
+BusinessManager was configured in 2087039464 us
+BusinessManager instantiated in 1919 us
+Session instantiated in 9889699 us
+1_performTwoBSSelects finished in 12697774 us
+JDBC connection obtained in 10128399 us
+BusinessManager was configured in 2321715998 us
+BusinessManager instantiated in 1919 us
+Session instantiated in 7608938 us
+1_performTwoBSSelects finished in 20420623 us
+JDBC connection obtained in 26422660 us
+BusinessManager was configured in 2363445486 us
+1_performSISUSSamePS finished in 29696615 us
+JDBC connection obtained in 10633955 us
+BusinessManager was configured in 3020315672 us
+1_performSISUSSamePS finished in 21092565 us
+JDBC connection obtained in 9508932 us
+BusinessManager was configured in 3034021358 us
+1_performSISUSSamePS finished in 31658044 us
+JDBC connection obtained in 13330680 us
+BusinessManager was configured in 2982146834 us
+1_performSISUSDiffPS finished in 25911345 us
+JDBC connection obtained in 23672820 us
+BusinessManager was configured in 2260085522 us
+1_performSISUSDiffPS finished in 20662521 us
+JDBC connection obtained in 9023215 us
+BusinessManager was configured in 3217571462 us
+1_performSISUSDiffPS finished in 41910592 us
+JDBC connection obtained in 7907792 us
+BusinessManager was configured in 3038685913 us
+BusinessManager instantiated in 1920 us
+Session instantiated in 9018095 us
+1_performBS_SISUS finished in 35747929 us
+JDBC connection obtained in 9208799 us
+BusinessManager was configured in 2494257779 us
+BusinessManager instantiated in 1920 us
+Session instantiated in 8940661 us
+1_performBS_SISUS finished in 38664154 us
+JDBC connection obtained in 9630521 us
+BusinessManager was configured in 2503373786 us
+BusinessManager instantiated in 3200 us
+Session instantiated in 11358371 us
+1_performBS_SISUS finished in 58163897 us
+JDBC connection obtained in 10237189 us
+BusinessManager was configured in 3093035742 us
+10_performDirectSelectsSamePS finished in 19723083 us
+JDBC connection obtained in 16380015 us
+BusinessManager was configured in 2771895054 us
+10_performDirectSelectsSamePS finished in 16531681 us
+JDBC connection obtained in 9810346 us
+BusinessManager was configured in 2418606124 us
+10_performDirectSelectsSamePS finished in 19987380 us
+JDBC connection obtained in 9917217 us
+BusinessManager was configured in 2422575699 us
+10_performDirectSelectsDiffPS finished in 11627787 us
+JDBC connection obtained in 8424867 us
+BusinessManager was configured in 2514414105 us
+10_performDirectSelectsDiffPS finished in 12688816 us
+JDBC connection obtained in 8666125 us
+BusinessManager was configured in 3557443960 us
+10_performDirectSelectsDiffPS finished in 17913961 us
+JDBC connection obtained in 7866195 us
+BusinessManager was configured in 2764819190 us
+BusinessManager instantiated in 1920 us
+Session instantiated in 47994543 us
+10_performBSSelects finished in 28053238 us
+JDBC connection obtained in 8634129 us
+BusinessManager was configured in 2999898249 us
+BusinessManager instantiated in 2559 us
+Session instantiated in 9318869 us
+10_performBSSelects finished in 24841358 us
+JDBC connection obtained in 10002969 us
+BusinessManager was configured in 3077357107 us
+BusinessManager instantiated in 1920 us
+Session instantiated in 8961140 us
+10_performBSSelects finished in 22364774 us
+JDBC connection obtained in 9075690 us
+BusinessManager was configured in 3265343304 us
+10_performTwoDirectSelectsSamePS finished in 22462045 us
+JDBC connection obtained in 9268953 us
+BusinessManager was configured in 3181785778 us
+10_performTwoDirectSelectsSamePS finished in 20304792 us
+JDBC connection obtained in 8629649 us
+BusinessManager was configured in 3200780604 us
+10_performTwoDirectSelectsSamePS finished in 12891038 us
+JDBC connection obtained in 8165689 us
+BusinessManager was configured in 3362204634 us
+10_performTwoDirectSelectsDiffPS finished in 18075866 us
+JDBC connection obtained in 6851244 us
+BusinessManager was configured in 3575716289 us
+10_performTwoDirectSelectsDiffPS finished in 20134568 us
+JDBC connection obtained in 8167609 us
+BusinessManager was configured in 5752754321 us
+10_performTwoDirectSelectsDiffPS finished in 17801330 us
+JDBC connection obtained in 7310724 us
+BusinessManager was configured in 6634821545 us
+BusinessManager instantiated in 1920 us
+Session instantiated in 9615803 us
+10_performTwoBSSelects finished in 52132423 us
+JDBC connection obtained in 10557801 us
+BusinessManager was configured in 3091696978 us
+BusinessManager instantiated in 1920 us
+Session instantiated in 12745130 us
+10_performTwoBSSelects finished in 59420748 us
+JDBC connection obtained in 9455817 us
+BusinessManager was configured in 3528988197 us
+BusinessManager instantiated in 3199 us
+Session instantiated in 15604402 us
+10_performTwoBSSelects finished in 56270302 us
+JDBC connection obtained in 8703242 us
+BusinessManager was configured in 3136495639 us
+10_performSISUSSamePS finished in 490628656 us
+JDBC connection obtained in 8351913 us
+BusinessManager was configured in 4581018228 us
+10_performSISUSSamePS finished in 679562611 us
+JDBC connection obtained in 8877308 us
+BusinessManager was configured in 3456872874 us
+10_performSISUSSamePS finished in 336069309 us
+JDBC connection obtained in 7101462 us
+BusinessManager was configured in 3353719613 us
+10_performSISUSDiffPS finished in 1029457916 us
+JDBC connection obtained in 8435105 us
+BusinessManager was configured in 3677626780 us
+10_performSISUSDiffPS finished in 186006211 us
+JDBC connection obtained in 8139452 us
+BusinessManager was configured in 3212361676 us
+10_performSISUSDiffPS finished in 784946718 us
+JDBC connection obtained in 7680611 us
+BusinessManager was configured in 3329159190 us
+BusinessManager instantiated in 1920 us
+Session instantiated in 9932575 us
+10_performBS_SISUS finished in 427605661 us
+JDBC connection obtained in 8244403 us
+BusinessManager was configured in 3176586230 us
+BusinessManager instantiated in 1920 us
+Session instantiated in 10603238 us
+10_performBS_SISUS finished in 499824016 us
+JDBC connection obtained in 9916577 us
+BusinessManager was configured in 3543423421 us
+BusinessManager instantiated in 1920 us
+Session instantiated in 10143117 us
+10_performBS_SISUS finished in 660091025 us
+JDBC connection obtained in 7490548 us
+BusinessManager was configured in 3668617003 us
+100_performDirectSelectsSamePS finished in 74070353 us
+JDBC connection obtained in 6750133 us
+BusinessManager was configured in 3510986564 us
+100_performDirectSelectsSamePS finished in 97814846 us
+JDBC connection obtained in 7084184 us
+BusinessManager was configured in 4797658572 us
+100_performDirectSelectsSamePS finished in 90963602 us
+JDBC connection obtained in 6841005 us
+BusinessManager was configured in 3186292265 us
+100_performDirectSelectsDiffPS finished in 104297482 us
+JDBC connection obtained in 7233291 us
+BusinessManager was configured in 3434735920 us
+100_performDirectSelectsDiffPS finished in 485041302 us
+JDBC connection obtained in 7820760 us
+BusinessManager was configured in 3534528194 us
+100_performDirectSelectsDiffPS finished in 110401911 us
+JDBC connection obtained in 9300951 us
+BusinessManager was configured in 4361030976 us
+BusinessManager instantiated in 2560 us
+Session instantiated in 9956894 us
+100_performBSSelects finished in 178264803 us
+JDBC connection obtained in 8035780 us
+BusinessManager was configured in 3169303663 us
+BusinessManager instantiated in 2560 us
+Session instantiated in 10971845 us
+100_performBSSelects finished in 169153917 us
+JDBC connection obtained in 9875621 us
+BusinessManager was configured in 3196315073 us
+BusinessManager instantiated in 1280 us
+Session instantiated in 9622203 us
+100_performBSSelects finished in 163462892 us
+JDBC connection obtained in 10757464 us
+BusinessManager was configured in 3232898129 us
+100_performTwoDirectSelectsSamePS finished in 143558705 us
+JDBC connection obtained in 6964514 us
+BusinessManager was configured in 3597285612 us
+100_performTwoDirectSelectsSamePS finished in 119172987 us
+JDBC connection obtained in 7230091 us
+BusinessManager was configured in 4013048464 us
+100_performTwoDirectSelectsSamePS finished in 495549827 us
+JDBC connection obtained in 7779163 us
+BusinessManager was configured in 5372540375 us
+100_performTwoDirectSelectsDiffPS finished in 142195623 us
+JDBC connection obtained in 6894759 us
+BusinessManager was configured in 4915686058 us
+100_performTwoDirectSelectsDiffPS finished in 142379287 us
+JDBC connection obtained in 10337660 us
+BusinessManager was configured in 3797904311 us
+100_performTwoDirectSelectsDiffPS finished in 165315531 us
+JDBC connection obtained in 19682127 us
+BusinessManager was configured in 3687101155 us
+BusinessManager instantiated in 1919 us
+Session instantiated in 9924256 us
+100_performTwoBSSelects finished in 334613435 us
+JDBC connection obtained in 8930422 us
+BusinessManager was configured in 3642195624 us
+BusinessManager instantiated in 5760 us
+Session instantiated in 8623890 us
+100_performTwoBSSelects finished in 323381773 us
+JDBC connection obtained in 16064521 us
+BusinessManager was configured in 2708620561 us
+BusinessManager instantiated in 3200 us
+Session instantiated in 8001224 us
+100_performTwoBSSelects finished in 347085310 us
+JDBC connection obtained in 10595557 us
+BusinessManager was configured in 3795555075 us
+100_performSISUSSamePS finished in 2059781037 us
+JDBC connection obtained in 8031941 us
+BusinessManager was configured in 3678679487 us
+100_performSISUSSamePS finished in 2154088348 us
+JDBC connection obtained in 8548375 us
+BusinessManager was configured in 4158028485 us
+100_performSISUSSamePS finished in 3130404009 us
+JDBC connection obtained in 7805401 us
+BusinessManager was configured in 4532136083 us
+100_performSISUSDiffPS finished in 3218426428 us
+JDBC connection obtained in 7256968 us
+BusinessManager was configured in 4847757891 us
+100_performSISUSDiffPS finished in 1952487975 us
+JDBC connection obtained in 8567574 us
+BusinessManager was configured in 4577265595 us
+100_performSISUSDiffPS finished in 2166848197 us
+JDBC connection obtained in 8182968 us
+BusinessManager was configured in 3978021113 us
+BusinessManager instantiated in 3839 us
+Session instantiated in 8675725 us
+100_performBS_SISUS finished in 2712976022 us
+JDBC connection obtained in 8694923 us
+BusinessManager was configured in 4354140696 us
+BusinessManager instantiated in 2560 us
+Session instantiated in 9523651 us
+100_performBS_SISUS finished in 2595258909 us
+JDBC connection obtained in 8806274 us
+BusinessManager was configured in 3789277861 us
+BusinessManager instantiated in 3200 us
+Session instantiated in 9951133 us
+100_performBS_SISUS finished in 2460291456 us
+JDBC connection obtained in 8159930 us
+BusinessManager was configured in 4116091656 us
+1000_performDirectSelectsSamePS finished in 1497143928 us
+JDBC connection obtained in 9044972 us
+BusinessManager was configured in 4292201767 us
+1000_performDirectSelectsSamePS finished in 817513484 us
+JDBC connection obtained in 7228811 us
+BusinessManager was configured in 4291536224 us
+1000_performDirectSelectsSamePS finished in 673098534 us
+JDBC connection obtained in 7510386 us
+BusinessManager was configured in 4253468499 us
+1000_performDirectSelectsDiffPS finished in 1089616520 us
+JDBC connection obtained in 7212812 us
+BusinessManager was configured in 3577523493 us
+1000_performDirectSelectsDiffPS finished in 1003211240 us
+JDBC connection obtained in 6888360 us
+BusinessManager was configured in 5749689627 us
+1000_performDirectSelectsDiffPS finished in 1023438600 us
+JDBC connection obtained in 8972659 us
+BusinessManager was configured in 4433766405 us
+BusinessManager instantiated in 2560 us
+Session instantiated in 9895458 us
+1000_performBSSelects finished in 1390814623 us
+JDBC connection obtained in 7271047 us
+BusinessManager was configured in 3007813720 us
+BusinessManager instantiated in 2560 us
+Session instantiated in 10577000 us
+1000_performBSSelects finished in 1561451931 us
+JDBC connection obtained in 9948574 us
+BusinessManager was configured in 3922699208 us
+BusinessManager instantiated in 2560 us
+Session instantiated in 7200013 us
+1000_performBSSelects finished in 1555215034 us
+JDBC connection obtained in 10066964 us
+BusinessManager was configured in 4241035660 us
+1000_performTwoDirectSelectsSamePS finished in 1052622620 us
+JDBC connection obtained in 7443192 us
+BusinessManager was configured in 4352986236 us
+1000_performTwoDirectSelectsSamePS finished in 1112590520 us
+JDBC connection obtained in 8331434 us
+BusinessManager was configured in 3989965033 us
+1000_performTwoDirectSelectsSamePS finished in 1896579241 us
+JDBC connection obtained in 8069057 us
+BusinessManager was configured in 3949421362 us
+1000_performTwoDirectSelectsDiffPS finished in 1674249794 us
+JDBC connection obtained in 7813720 us
+BusinessManager was configured in 3634635961 us
+1000_performTwoDirectSelectsDiffPS finished in 1595446413 us
+JDBC connection obtained in 7100822 us
+BusinessManager was configured in 3298820071 us
+1000_performTwoDirectSelectsDiffPS finished in 1623728751 us
+JDBC connection obtained in 8109374 us
+BusinessManager was configured in 4048880866 us
+BusinessManager instantiated in 2559 us
+Session instantiated in 9402702 us
+1000_performTwoBSSelects finished in 2977420845 us
+JDBC connection obtained in 8417827 us
+BusinessManager was configured in 3029056671 us
+BusinessManager instantiated in 3200 us
+Session instantiated in 6849964 us
+1000_performTwoBSSelects finished in 2959602237 us
+JDBC connection obtained in 9364305 us
+BusinessManager was configured in 2724944901 us
+BusinessManager instantiated in 3199 us
+Session instantiated in 7301765 us
+1000_performTwoBSSelects finished in 2972770371 us
+JDBC connection obtained in 9411661 us
+BusinessManager was configured in 2675255785 us
+1000_performSISUSSamePS finished in 16600495573 us
+JDBC connection obtained in 8223285 us
+BusinessManager was configured in 3620426638 us
+1000_performSISUSSamePS finished in 18629248910 us
+JDBC connection obtained in 7928910 us
+BusinessManager was configured in 4476586998 us
+1000_performSISUSSamePS finished in 22476174234 us
+JDBC connection obtained in 7894993 us
+BusinessManager was configured in 4383727880 us
+1000_performSISUSDiffPS finished in 21176231700 us
+JDBC connection obtained in 5867649 us
+BusinessManager was configured in 3271182796 us
+1000_performSISUSDiffPS finished in 17699136587 us
+JDBC connection obtained in 8050500 us
+BusinessManager was configured in 4339921773 us
+1000_performSISUSDiffPS finished in 20602856968 us
+JDBC connection obtained in 7923150 us
+BusinessManager was configured in 4634895778 us
+BusinessManager instantiated in 2560 us
+Session instantiated in 9398222 us
+1000_performBS_SISUS finished in 23061578000 us
+JDBC connection obtained in 8589332 us
+BusinessManager was configured in 4701685485 us
+BusinessManager instantiated in 3200 us
+Session instantiated in 9065451 us
+1000_performBS_SISUS finished in 22766209789 us
+JDBC connection obtained in 8123453 us
+BusinessManager was configured in 3792396309 us
+BusinessManager instantiated in 2560 us
+Session instantiated in 7329282 us
+1000_performBS_SISUS finished in 21602286777 us
+JDBC connection obtained in 7819480 us
+BusinessManager was configured in 3010733786 us
+10000_performDirectSelectsSamePS finished in 6361851385 us
+JDBC connection obtained in 7706850 us
+BusinessManager was configured in 3520825067 us
+10000_performDirectSelectsSamePS finished in 6666461671 us
+JDBC connection obtained in 7466870 us
+BusinessManager was configured in 3424035412 us
+10000_performDirectSelectsSamePS finished in 6615566261 us
+JDBC connection obtained in 8861308 us
+BusinessManager was configured in 4067782900 us
+10000_performDirectSelectsDiffPS finished in 9757657573 us
+JDBC connection obtained in 9327829 us
+BusinessManager was configured in 3717774965 us
+10000_performDirectSelectsDiffPS finished in 9723798761 us
+JDBC connection obtained in 8495261 us
+BusinessManager was configured in 5957255561 us
+10000_performDirectSelectsDiffPS finished in 9370676217 us
+JDBC connection obtained in 7187215 us
+BusinessManager was configured in 3781329113 us
+BusinessManager instantiated in 3200 us
+Session instantiated in 8005703 us
+10000_performBSSelects finished in 13454503800 us
+JDBC connection obtained in 6411602 us
+BusinessManager was configured in 2569204857 us
+BusinessManager instantiated in 3840 us
+Session instantiated in 6917798 us
+10000_performBSSelects finished in 13118061404 us
+JDBC connection obtained in 7263367 us
+BusinessManager was configured in 3333362344 us
+BusinessManager instantiated in 3840 us
+Session instantiated in 7653734 us
+10000_performBSSelects finished in 13373680115 us
+JDBC connection obtained in 8179128 us
+BusinessManager was configured in 3293779230 us
+10000_performTwoDirectSelectsSamePS finished in 10710626148 us
+JDBC connection obtained in 7054746 us
+BusinessManager was configured in 3822640077 us
+10000_performTwoDirectSelectsSamePS finished in 11462608055 us
+JDBC connection obtained in 7345280 us
+BusinessManager was configured in 3350498133 us
+10000_performTwoDirectSelectsSamePS finished in 10716129029 us
+JDBC connection obtained in 7676772 us
+BusinessManager was configured in 3875773373 us
+10000_performTwoDirectSelectsDiffPS finished in 15702610205 us
+JDBC connection obtained in 16047883 us
+BusinessManager was configured in 3455501473 us
+10000_performTwoDirectSelectsDiffPS finished in 16203308384 us
+JDBC connection obtained in 16569438 us
+BusinessManager was configured in 4007233291 us
+10000_performTwoDirectSelectsDiffPS finished in 16491177088 us
+JDBC connection obtained in 9040493 us
+BusinessManager was configured in 3587536061 us
+BusinessManager instantiated in 2560 us
+Session instantiated in 7592299 us
+10000_performTwoBSSelects finished in 26366489701 us
+JDBC connection obtained in 7180815 us
+BusinessManager was configured in 2816587484 us
+BusinessManager instantiated in 3840 us
+Session instantiated in 7330562 us
+10000_performTwoBSSelects finished in 26668585646 us
+JDBC connection obtained in 7663333 us
+BusinessManager was configured in 2992929255 us
+BusinessManager instantiated in 2560 us
+Session instantiated in 8455584 us
+10000_performTwoBSSelects finished in 26688423280 us
+JDBC connection obtained in 8436386 us
+BusinessManager was configured in 6049566886 us
+10000_performSISUSSamePS finished in 179348216092 us
+JDBC connection obtained in 8732680 us
+BusinessManager was configured in 3168743712 us
+10000_performSISUSSamePS finished in 177731212515 us
+JDBC connection obtained in 7615337 us
+BusinessManager was configured in 2851689709 us
+10000_performSISUSSamePS finished in 181942886891 us
+JDBC connection obtained in 7306884 us
+BusinessManager was configured in 4674837262 us
+10000_performSISUSDiffPS finished in 192194303088 us
+JDBC connection obtained in 7259528 us
+BusinessManager was configured in 3992398102 us
+10000_performSISUSDiffPS finished in 196014339232 us
+JDBC connection obtained in 7573101 us
+BusinessManager was configured in 3595788142 us
+10000_performSISUSDiffPS finished in 207025273320 us
+JDBC connection obtained in 7032988 us
+BusinessManager was configured in 3381516233 us
+BusinessManager instantiated in 2560 us
+Session instantiated in 11428126 us
+10000_performBS_SISUS finished in 204775679685 us
+JDBC connection obtained in 7998023 us
+BusinessManager was configured in 3142634625 us
+BusinessManager instantiated in 2560 us
+Session instantiated in 8581654 us
+10000_performBS_SISUS finished in 204352313654 us
+JDBC connection obtained in 7045787 us
+BusinessManager was configured in 2481928613 us
+BusinessManager instantiated in 3200 us
+Session instantiated in 7609578 us
+10000_performBS_SISUS finished in 201776517372 us

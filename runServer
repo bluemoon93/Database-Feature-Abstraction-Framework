@@ -1,0 +1,1 @@
+java -jar ./DACA_PolicyManager/dist/DACA_PolicyManager.jar Regateiro 123456 192.168.56.101:1433 PolicyServer2 9000

@@ -1,0 +1,7 @@
+OnIt;insert into person2 (id, name) values(7, 'banzai');;SELECT * FROM person2 where id=7 and  name= 'banzai';0;delete from person2 where id=7 and  name= 'banzai';;
+Done;
+OnIt;insert into person2 (id) values(5);;SELECT * FROM person2 where id=5;0;delete from person2 where id=5;;
+Done;
+OnIt;insert into person2 values (22, 'yui');;SELECT * FROM person2 where id=22 and name= 'yui';0;delete from person2 where id=22 and name= 'yui';;
+Done;
+OnIt;delete from person2 where name='yui';;SELECT * FROM person2 where  name='yui';2;insert into person2 values ('2', 'yui');;SELECT * FROM person2 where  name='yui';1;insert into person2 values ('22', 'yui');;

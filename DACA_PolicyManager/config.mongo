@@ -1,0 +1,43 @@
+#
+#
+# DB configs
+# DB Type can be SQLServer, Hive, SQLite, Mongo, Redis
+dbType=Mongo
+# ConnectionType can be SQLDataSource, UrlAuth, url
+connectionType=UrlAuth
+url=jdbc:mongo://localhost/mydb
+# optional
+classForName=mongodb.jdbc.MongoDriver
+# user and password are only needed for SQLDataSource and urlAuth
+user=bluemoon
+password=1234lol
+# dbName is only needed for SQLDataSource
+#dbName=
+#
+#
+# Policy Server Configs
+urlPS=192.168.57.101
+dbNamePS=PolicyServer2
+userPS=regateiro
+passwordPS=123456
+#
+#
+# Boolean features
+# Whether to use custom transactions
+r4nTrans=true
+# Whether to use custom ResultSets
+r4nIAM=true
+# Whether to use custom CallableStatements
+r4nSP=true
+# Whether to map Column Names to indexes using the PS
+r4nColI=false
+#
+# FT
+ft=NoOp
+#ftLocation=
+#
+# CH
+ch=Local
+#chLocation=
+#
+
