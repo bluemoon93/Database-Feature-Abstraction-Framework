@@ -1,7 +1,9 @@
 DFAF (Database Feature Abstraction Framework):
+
 	Requirements:
 		- JDK 8
 		- Netbeans (optional)
+
 	Deployment:
 		- Download and extract http://download.oracle.com/otn-pub/java/jdk/8u25-b17/jdk-8u25-linux-x64.tar.gz
 		- "export JAVA_HOME=/home/bluemoon/jdk1.8.0_25/"
@@ -16,6 +18,7 @@ DFAF (Database Feature Abstraction Framework):
 
 
 S-DRACA (Secure, Distributed and Dynamic Role-Based Access Control Arquitecture):
+
 	Requirements:
 		- SQL Server 2012 Express edition (other versions might require changes to the SQL Scripts' syntax)
 		- JDK 8
