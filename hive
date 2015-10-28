@@ -1,0 +1,9 @@
+#!/usr/bin/expect
+spawn "start-dfs.sh"
+expect "bluemoon@localhost" { send "1234lol\r" }
+expect "bluemoon@localhost" { send "1234lol\r" }
+expect "bluemoon@0.0.0.0" { send "1234lol\r" }
+interact
+spawn "start-yarn.sh"
+expect "bluemoon@localhost" { send "1234lol\r" }
+interact

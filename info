@@ -1,0 +1,11 @@
+start-dfs.sh
+start-yarn.sh
+java -jar /usr/local/derby/lib/derbyrun.jar server start &
+sudo service mysql start
+sleep 5
+/usr/local/hive/bin/hiveserver2
+
+hive --hiveconf hive.root.logger=info,console --hiveconf hive.in.test=true --hiveconf hive.txn.manager=org.apache.hadoop.hive.ql.lockmgr.DbTxnManager --hiveconf hive.compactor.initiator.on=true --hiveconf hive.compactor.worker.threads=1 --hiveconf hive.txn.driver=jdbc:derby://localhost:1527/metastore_db;create=true;user=APP;password=mine
+
+
+hive --hiveconf hive.root.logger=info,console --hiveconf hive.txn.manager=org.apache.hadoop.hive.ql.lockmgr.DbTxnManager --hiveconf hive.compactor.initiator.on=true --hiveconf hive.compactor.worker.threads=1 --hiveconf hive.txn.driver=jdbc:derby://localhost:1527/metastore_db;create=true
